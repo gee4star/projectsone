@@ -1,0 +1,65 @@
+html, body {
+height: 100%;
+width: 100%;
+}
+.border {
+    
+    border: 3px solid deepskyblue;  
+    outline: 3px solid blue;  
+    border-radius: 12px;  
+    font-size: 20px;  
+    font-weight: bold;  
+    margin: 30px;  
+    padding: 30px;  
+    outline-offset: 0.5em;  
+  border-style:solid;
+  margin-top: 20%;  
+  background-color: lightskyblue;
+}
+h1 {
+  text-align: center;
+}
+.img-food {
+  width: 150px;
+  position: absolute;
+  top: 40%;
+  left: 54%;
+  transform: translate(-65%,-65%);
+
+  
+}
+header {
+margin-top: 40%;
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+input {
+
+margin-left: 30%;
+  box-shadow: 0 0 5px 1px;
+  rgba(0,255,0,0.2);
+  border-radius: 5px;
+  box-sizing: 10%;
+  
+  
+}
+.basic-styling{
+  border: 5px skyblue;
+}
+
+
+button {
+  box-shadow: 0 0 5px 1px;
+  position: center;
+  border-radius: 5px;
+}
+h4 {
+  text-align: center;
+}
+.img-smiley {
+  width: 40px;
+  position: absolute;
+  top: 30%;
+  left: 52%;
+  transform: translate(-65%,-65%);
+}
